@@ -33,10 +33,6 @@ This project aims to create a flexible and accessible Wiki Engine using Lacinia 
 6. Run `lein fig:build` to start the ClojureScript development environment.
 7. Run `npm start` to start the Webpack development server for the frontend.
 
-## Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
-
 ## License
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE
